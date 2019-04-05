@@ -1,0 +1,11 @@
+{
+  "facebook": {},
+  "twitter": {},
+  "postgres":
+  {
+  	"password":"****",
+  	"user":"****",
+  	"host":"****",
+  	"port":****
+  }
+}
